@@ -1,0 +1,9 @@
+flask
+requests
+transformers>=4.30
+sentence-transformers
+faiss-cpu
+tqdm
+python-dotenv
+PyPDF2
+gunicorn
